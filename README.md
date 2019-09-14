@@ -1,5 +1,5 @@
 
-# teamWeekStyleSheetExport
+# teamweekGoogleSheetConnector
 
 Export your projects and tasks from teamweek to Google Sheet
 You can later use that in a Google Data Studio project to retrieve stats from TeamWeek
